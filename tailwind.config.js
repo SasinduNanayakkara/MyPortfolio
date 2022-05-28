@@ -14,6 +14,7 @@ module.exports = {
         secondaryBgColor: "var(--secondary-bg-color)",
         divBgColor: "var(--div-bg-color)",
         divSecondaryBgColor: "var(--div-secondary-bg-color)",
+        transition : "var(--transition)",
       }
     },
   },
