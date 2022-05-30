@@ -13,15 +13,28 @@
     --div-bg-color: #71717a;
     --div-secondary-bg-color: #64748b;
     --transition : all 400ms ease;
+
+    --container-width-lg: 75%;
+    --container-width-md: 86%;
+    --container-width-sm: 90%;
 }
 
 html {
     scroll-behavior: smooth;
 }
+
+::-webkit-scrollbar {
+    display: none;
+}
 body {
     font-family: 'Poppins', sans-serif;
     line-height: 1.7;
     background-image: url(../src/Asserts/bg-texture.png);
+}
+
+.container {
+    max-width: var(--container-width-lg);
+    margin: 0 auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -34,7 +47,6 @@ h1 {
 
 section {
     margin-top: 8rem;
-    height: 100vh;
     scroll-behavior: smooth;
 
 }
@@ -91,7 +103,6 @@ img {
     display: block;
     width: 80%;
     height: 70%;
-    border-radius: 70%;
     object-fit: cover;
 }
 
