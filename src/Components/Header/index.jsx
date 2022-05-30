@@ -13,7 +13,7 @@ function Header() {
         <CV />
 
         <div className='bg-slate-900 w-80 h-96 ml-7 absolute left-2/4 -translate-x-1/2 mt-12'>
-          <img src={ME} alt='profile pic' />
+          <img src={ME} alt='profile pic' className='rounded-full'/>
         <HeaderSocials/>
         </div>
 
