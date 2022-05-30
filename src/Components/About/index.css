@@ -1,3 +1,7 @@
+.about__container {
+    grid-template-columns: 1fr 1fr;
+}
+
 @media screen and (max-width: 600px) {
     .about__me {
         width: 65%;
@@ -17,6 +21,10 @@
     .about__content p {
         margin: 1.5rem 0;
     }
+
+    .profile__img {
+        margin: 0 192px;
+    }
 }
 
 @media screen and (max-width: 1024px) {
@@ -32,5 +40,9 @@
 
     .about__content p {
         margin: 1rem 0 1.5rem;
+    }
+
+    .profile__img {
+        margin-right: 192px;
     }
 }
