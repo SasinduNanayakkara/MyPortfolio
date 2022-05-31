@@ -39,7 +39,7 @@ function About() {
           </div>
 
           <p className='my-8 text-amber-100 text-justify'>
-          I'm a Data Science undergraduate student at SLIIT. And I am a Intern Software Engineer at Surge Global. I'm currently working on my academic studies and learning more about latest technologies and improve my IT knowledge. And I filmier with Javascript, Typescript, Python, java and React also. My passion lies on Software development, Data science, Artificial Intelligence and neural networks. I stay in tuned with latest technologies in IT world.
+          I'm a Data Science undergraduate student at SLIIT. And I am a Intern Software Engineer at Surge Global. I'm currently working on my academic studies and learning more about latest technologies and improve my IT knowledge. And I familiar with Node JS, Typescript, Python, java and React also. My passion lies on Software development, Data science, Artificial Intelligence and neural networks. I stay in tuned with latest technologies in IT world.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
