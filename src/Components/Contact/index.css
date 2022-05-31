@@ -1,0 +1,35 @@
+.contact__container {
+    grid-template-columns: 30% 58%;
+    gap: 12%;
+}
+
+.contact__option-icon {
+    padding-left: 3px;
+}
+
+.form-item {
+    background-color: transparent;
+}
+
+@media screen and (max-width: 1024px) {
+    .contact__container.container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .contact__option-icon {
+        margin-left: 290px;
+    }
+    
+}
+
+@media screen and (max-width: 600px) {
+    .contact__container.container {
+        grid-template-columns: 1fr;
+        width: var(--container-width-sm);
+    }
+
+    .contact__option-icon {
+        margin-left: 290px;
+    }
+}
