@@ -1,0 +1,25 @@
+.permalinks {
+    margin: 0 auto 3rem;
+}
+
+.footer__socials {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 64px;
+}
+
+.footer__socials a {
+    
+}
+
+@media screen and (min-width: 600px) {
+    .permalinks {
+        flex-direction: column;
+        gap: 24px;
+    }
+
+    .footer__socials {
+        margin-bottom: 2.6rem;
+    }
+}
