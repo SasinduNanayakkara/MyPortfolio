@@ -1,9 +1,10 @@
 import React from 'react'
+import "./index.css"
 import {BsGithub} from "react-icons/bs"
 import {GiPlainCircle} from "react-icons/gi"
 import IMG1 from "../../Asserts/LMS.png";
 import IMG2 from "../../Asserts/mobile app.png";
-import IMG3 from "../../Asserts/mobile app.png";
+import IMG3 from "../../Asserts/python image.jpeg";
 import IMG4 from "../../Asserts/face detection.jpeg";
 import IMG5 from "../../Asserts/terraform.png";
 import IMG6 from "../../Asserts/blog app.png";
@@ -30,7 +31,7 @@ function Portfolio() {
             <p className='flex pl-5'><GiPlainCircle size={18} className={color} />&nbsp;{techName}</p>
             
           </div>
-          <a href={url} className='btn btn-primary border-2 hover:bg-transparent hover:border-primaryBtnColor hover:text-primaryBtnColor mx-20' target='blank'><div className='flex'><BsGithub size={30}/>&nbsp;&nbsp;GitHub</div></a>
+          <a href={url} className='git__button btn btn-primary border-2 hover:bg-transparent hover:border-primaryBtnColor hover:text-primaryBtnColor mx-20' target='blank'><div className='flex'><BsGithub size={30}/>&nbsp;&nbsp;GitHub</div></a>
         </article>
         )
       })}
