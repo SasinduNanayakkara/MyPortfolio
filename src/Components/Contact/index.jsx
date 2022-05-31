@@ -32,7 +32,7 @@ function Contact() {
   return (
     <section id='contact'>
       <h5>Get In Touch</h5>
-      <h2>Contact</h2>
+      <h2 className='font-bold text-3xl text-zinc-300 '>Contact</h2>
 
       <div className="container contact__container w-2/3 grid ">
         <div className="contact__options flex flex-col gap-5">
