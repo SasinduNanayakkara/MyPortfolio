@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px) {
+    .head {
+        height: 86vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .head {
+        height: 100vh;
+    }
+}
