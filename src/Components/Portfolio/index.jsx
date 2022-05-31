@@ -16,7 +16,7 @@ function Portfolio() {
   return (
     <section id='portfolio'>
       <h5>My Recent Works</h5>
-      <h2>Projects</h2>
+      <h2 className='font-bold text-3xl text-zinc-300 '>Projects</h2>
       <div className='container portfolio__container grid grid-cols-3 gap-10 items-center'>
       
       {techData.map(({id, image, title, description, techName, color, url}) => {
