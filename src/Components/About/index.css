@@ -23,7 +23,10 @@
     }
 
     .profile__img {
-        margin: 0 192px;
+        margin-left: 12rem;
+    }
+    .card-icon {
+        margin-left: 2rem;
     }
 }
 
@@ -43,6 +46,6 @@
     }
 
     .profile__img {
-        margin-right: 192px;
+        margin-left: 12rem;
     }
 }
