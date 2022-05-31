@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.242bc236.css",
-    "main.js": "/MyPortfolio/static/js/main.dc514671.js",
+    "main.css": "/MyPortfolio/static/css/main.845daaea.css",
+    "main.js": "/MyPortfolio/static/js/main.d78cdfb9.js",
     "static/media/LMS.png": "/MyPortfolio/static/media/LMS.2920484bc06b0086e1c6.png",
     "static/media/Sasindu Nanayakkara.jpg": "/MyPortfolio/static/media/Sasindu Nanayakkara.a48928217ab2062dce0d.jpg",
     "static/media/mobile app.png": "/MyPortfolio/static/media/mobile app.55633245b06d9f7ecef3.png",
@@ -12,11 +12,11 @@
     "static/media/terraform.png": "/MyPortfolio/static/media/terraform.1a11478d4a348f3983b3.png",
     "static/media/blog app.png": "/MyPortfolio/static/media/blog app.03ed1f851823961a7159.png",
     "index.html": "/MyPortfolio/index.html",
-    "main.242bc236.css.map": "/MyPortfolio/static/css/main.242bc236.css.map",
-    "main.dc514671.js.map": "/MyPortfolio/static/js/main.dc514671.js.map"
+    "main.845daaea.css.map": "/MyPortfolio/static/css/main.845daaea.css.map",
+    "main.d78cdfb9.js.map": "/MyPortfolio/static/js/main.d78cdfb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.242bc236.css",
-    "static/js/main.dc514671.js"
+    "static/css/main.845daaea.css",
+    "static/js/main.d78cdfb9.js"
   ]
 }
