@@ -123,6 +123,15 @@ header::-webkit-scrollbar {
     header {
         height: 68vh;
     }
+    .cv-btn {
+        width: 40%;
+        font-size: 2rem;
+    }
+    .contact-btn {
+        width: 40%;
+        font-size: 2rem;
+    }
+    
 }
 
 /* ======================= MEDIA QUERY(Small) ======================= */
@@ -137,5 +146,26 @@ header::-webkit-scrollbar {
 
     header {
         height: 100vh;
+    }
+    .header__container {
+        padding-top: 20rem;
+    }
+    .cv-div {
+        margin-top: 4rem;
+        gap: 64px;
+        margin-bottom: 2rem;
+    }
+    .cv-btn {
+        width: 40%;
+        font-size: 2rem;
+    }
+    .contact-btn {
+        width: 40%;
+        font-size: 2rem;
+    }
+    .profile-image {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 }
