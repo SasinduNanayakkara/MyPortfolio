@@ -19,19 +19,19 @@ function About() {
 
         <div className=' about__content'>
           <div className='about__cards grid grid-cols-3 gap-6'>
-            <article className='about__card bg-zinc-600 border-2 border-transparent rounded-2xl p-8 text-center hover:bg-transparent hover:border-zinc-600 hover:transition'>
-              <GiGraduateCap className='text-primaryBtnColor ml-10 text-2xl mb-4'/>
+            <article className='about__card bg-slate-700 border-2 border-transparent rounded-2xl p-8 text-center hover:bg-transparent hover:border-zinc-600 hover:transition'>
+              <GiGraduateCap className='card-icon text-primaryBtnColor ml-10 text-2xl mb-4'/>
               <h5 className='text-base'>Education</h5>
               <small className='text-xs text-amber-300'>2nd year Undergraduate</small>
             </article>
 
-            <article className='about__card bg-zinc-600 border-2 border-transparent rounded-2xl p-8 text-center hover:bg-transparent hover:border-zinc-600 hover:transition'>
+            <article className='about__card bg-slate-700 border-2 border-transparent rounded-2xl p-8 text-center hover:bg-transparent hover:border-zinc-600 hover:transition'>
               <BsLaptop className='text-primaryBtnColor mx-10 text-2xl mb-4'/>
               <h5 className='text-base'>Carrier</h5>
               <small className='text-xs text-amber-300'>Intern Software Engineer</small>
             </article>
             
-            <article className='about__card bg-zinc-600 border-2 border-transparent rounded-2xl p-8 text-center hover:bg-transparent hover:border-zinc-600 hover:transition'>
+            <article className='about__card bg-slate-700 border-2 border-transparent rounded-2xl p-8 text-center hover:bg-transparent hover:border-zinc-600 hover:transition'>
               <VscFolderLibrary className='text-primaryBtnColor mx-10 text-2xl mb-4'/>
               <h5 className='text-base'>Projects</h5>
               <small className='text-xs text-amber-300'>20+ projects</small>
