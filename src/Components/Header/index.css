@@ -2,10 +2,28 @@
     .head {
         height: 86vh;
     }
+    .header__container {
+        padding-top: 5rem;
+    }
+    .text-hello {
+        font-size: 3.5rem;
+    }
+
+    .title {
+        font-size: 5.5rem;
+    }
+
+    .title-desc {
+        font-size: 2.5rem;
+        margin-top: 32px;
+    }
 }
 
 @media screen and (max-width: 600px) {
     .head {
-        height: 100vh;
+        margin-top: 320px;
+    }
+    .header__container {
+        padding-top: 20rem;
     }
 }
