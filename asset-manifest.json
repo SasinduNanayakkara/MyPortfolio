@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.39fa30c3.css",
-    "main.js": "/MyPortfolio/static/js/main.ca20c66f.js",
+    "main.css": "/MyPortfolio/static/css/main.ab84d861.css",
+    "main.js": "/MyPortfolio/static/js/main.9b450cf7.js",
     "static/media/LMS.png": "/MyPortfolio/static/media/LMS.2920484bc06b0086e1c6.png",
     "static/media/Sasindu Nanayakkara.jpg": "/MyPortfolio/static/media/Sasindu Nanayakkara.a48928217ab2062dce0d.jpg",
-    "static/media/mobile app.png": "/MyPortfolio/static/media/mobile app.55633245b06d9f7ecef3.png",
+    "static/media/terraform-azure.png": "/MyPortfolio/static/media/terraform-azure.a7de3fe705061904bd81.png",
     "static/media/SasinduNanayakkara.jpg": "/MyPortfolio/static/media/SasinduNanayakkara.c467279ecb35be9ab804.jpg",
+    "static/media/chat-app.png": "/MyPortfolio/static/media/chat-app.455235bf867518c9d232.png",
     "static/media/face detection.jpeg": "/MyPortfolio/static/media/face detection.156a9ddc91379aa3aee0.jpeg",
     "static/media/Sasindu Nanayakkara - CV.pdf": "/MyPortfolio/static/media/Sasindu Nanayakkara - CV.dd8d531e22287c9722ed.pdf",
-    "static/media/python image.jpeg": "/MyPortfolio/static/media/python image.749e6ab4e9f667ecc243.jpeg",
-    "static/media/terraform.png": "/MyPortfolio/static/media/terraform.1a11478d4a348f3983b3.png",
-    "static/media/blog app.png": "/MyPortfolio/static/media/blog app.03ed1f851823961a7159.png",
+    "static/media/crypto-trade.jpg": "/MyPortfolio/static/media/crypto-trade.e8a9b5d18826ce10326c.jpg",
+    "static/media/scoin.webp": "/MyPortfolio/static/media/scoin.ac348b33d41888289dc3.webp",
     "index.html": "/MyPortfolio/index.html",
-    "main.39fa30c3.css.map": "/MyPortfolio/static/css/main.39fa30c3.css.map",
-    "main.ca20c66f.js.map": "/MyPortfolio/static/js/main.ca20c66f.js.map"
+    "main.ab84d861.css.map": "/MyPortfolio/static/css/main.ab84d861.css.map",
+    "main.9b450cf7.js.map": "/MyPortfolio/static/js/main.9b450cf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.39fa30c3.css",
-    "static/js/main.ca20c66f.js"
+    "static/css/main.ab84d861.css",
+    "static/js/main.9b450cf7.js"
   ]
 }
