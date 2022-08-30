@@ -1,5 +1,5 @@
 import React from 'react'
-import CVFile from "../../Asserts/Sasindu Nanayakkara - CV.pdf"
+import CVFile from "../../Asserts/Sasindu Nanayakkara-CV.pdf"
 import "../../index.css"
 function CV() {
   return (
