@@ -3,11 +3,11 @@ import "./index.css"
 import {BsGithub} from "react-icons/bs"
 import {GiPlainCircle} from "react-icons/gi"
 import IMG1 from "../../Asserts/LMS.png";
-import IMG2 from "../../Asserts/mobile app.png";
-import IMG3 from "../../Asserts/python image.jpeg";
+import IMG2 from "../../Asserts/crypto-trade.jpg";
+import IMG3 from "../../Asserts/chat-app.png";
 import IMG4 from "../../Asserts/face detection.jpeg";
-import IMG5 from "../../Asserts/terraform.png";
-import IMG6 from "../../Asserts/blog app.png";
+import IMG5 from "../../Asserts/terraform-azure.png";
+import IMG6 from "../../Asserts/scoin.webp";
 
 import {techData} from "./data";
 
