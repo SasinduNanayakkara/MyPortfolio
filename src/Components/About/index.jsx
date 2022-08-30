@@ -22,7 +22,7 @@ function About() {
             <article className='about__card bg-slate-700 border-2 border-transparent rounded-2xl p-8 text-center hover:bg-transparent hover:border-zinc-600 hover:transition'>
               <GiGraduateCap className='card-icon text-primaryBtnColor ml-10 text-2xl mb-4'/>
               <h5 className='text-base'>Education</h5>
-              <small className='text-xs text-amber-300'>2nd year Undergraduate</small>
+              <small className='text-xs text-amber-300'>3rd year Undergraduate</small>
             </article>
 
             <article className='about__card bg-slate-700 border-2 border-transparent rounded-2xl p-8 text-center hover:bg-transparent hover:border-zinc-600 hover:transition'>
@@ -39,7 +39,7 @@ function About() {
           </div>
 
           <p className='my-8 text-amber-100 text-justify'>
-          I'm a Data Science undergraduate student at SLIIT. And I am a Intern Software Engineer at Surge Global. I'm currently working on my academic studies and learning more about latest technologies and improve my IT knowledge. And I familiar with Node JS, Typescript, Python, java and React also. My passion lies on Software development, Data science, Artificial Intelligence and neural networks. I stay in tuned with latest technologies in IT world.
+          I'm a Software Engineering undergraduate student at SLIIT. And I completed the internship as Software Engineer at Surge Global. I'm currently working on my academic studies and learning more about latest technologies and improve my IT knowledge. And I familiar with Node JS, Typescript, Python, java and React also. My passion lies on Software development, Data science, Artificial Intelligence and neural networks. I stay in tuned with latest technologies in IT world.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
